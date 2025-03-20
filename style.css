@@ -1,0 +1,43 @@
+h1{
+  font-family: sans-serif;
+  background-color: red;
+  color: white;
+ font-size: 32px;
+ text-align: center;
+ font-weight:bold;
+}
+.number1{
+  font-family: sans-serif;
+background-color: pink;
+}
+#number2{
+  font-weight: bold;
+  color: blue;
+  font-size: 36px;
+font-family: 'Times New Roman', Times, serif;
+}
+.number3{
+  font-family: sans-serif;
+  background: pink;
+  font-size: 24px;
+}
+#number4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: lightgreen;
+font-size: 24px;
+}
+.number5{
+  font-family: sans-serif;
+  background-color: pink;
+}
+.related{
+  background-color: black;
+  color: #fff;
+}
+.related1{
+ background-color: #faea0cf6; 
+}
+.related.related1{
+  font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+}
