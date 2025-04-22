@@ -136,3 +136,22 @@ font-weight: bolder;
   font-weight: bolder;
 >>>>>>> Stashed changes
 }
+body{
+  max-width: 600px;
+  margin: 0 auto;
+}
+.div-one{
+  outline: 3px solid blue ;
+  padding: 32px;
+  background-color: lightcoral;
+  margin:12px ;
+}
+.div-two{
+  outline: 3px solid purple;
+  margin-bottom: 48px;
+}
+.div-three{
+  outline: 3px solid brown;
+  padding: 32px;
+  margin-right: auto;
+}
