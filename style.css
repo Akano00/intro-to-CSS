@@ -57,6 +57,47 @@ body{
 }
 .div-three{
   outline: 3px solid brown;
+  width: 200px;
   padding: 32px;
-  margin-right: auto;
+  margin-left: auto;
+}
+.margin-padding-2{
+  background-color: gray;
+  padding:0;
+  margin: 0;
+}
+.box-container{
+  background-color: #fff;
+padding: 8px;
+margin-top: 16px;
+margin-bottom: 16px;
+margin-left: 8px;
+margin-right: 8px;
+}
+.div-1{
+  font-weight: bold;
+  display: block;
+  background: skyblue;  
+  padding: 8px;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.div-2{
+  display: block;
+  padding: 8px;
+  background-color: skyblue;
+  margin-bottom: 8px;
+}
+.div-3{
+  display:block;
+  background-color: skyblue;
+  text-align: center;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+}
+.button-container{
+  background-color: #fff;
+  padding: 8px 24px;
+  text-align: center;
+  margin: 0 auto;
 }
